@@ -20,7 +20,7 @@ export default function Button({ className, href, ...props }: ButtonProps) {
   const classes = [baseClasses, className].filter(Boolean).join(" ");
 
   if (href) {
-    const { children, ...rest } = props as ButtonAsLink;
+    const { children, href: _href, ...rest } = props as ButtonAsLink;
     return (
       <a className={classes} href={href} {...rest}>
         {children}

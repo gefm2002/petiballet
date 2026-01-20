@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ini-3-6",
+    "title": "Iniciación a la Danza",
+    "age": "3 a 6 años",
+    "level": "Inicial",
+    "description": "Primeros pasos en la danza clásica. Desarrollo corporal, musicalidad, coordinación y expresión en un entorno cuidado y lúdico.",
+    "ctaLabel": "Consultar por Iniciación",
+    "ctaMessage": "Hola, quiero consultar por Iniciación a la Danza (3 a 6). ¿Hay cupos y horarios disponibles?",
+    "notes": []
+  },
+  {
+    "id": "clas-ninas",
+    "title": "Danza Clásica Niñas",
+    "age": "",
+    "level": "Inicial",
+    "description": "Técnica básica, postura, coordinación, musicalidad y conciencia corporal.",
+    "ctaLabel": "Consultar por Niñas",
+    "ctaMessage": "Hola, quiero consultar por Danza Clásica Niñas (Inicial). ¿Horarios y cupos?",
+    "notes": []
+  },
+  {
+    "id": "inter-avz",
+    "title": "Danza Clásica Inter / Avanzado",
+    "age": "",
+    "level": "Intermedio y avanzado",
+    "description": "Técnica académica, fortalecimiento, trabajo expresivo y preparación escénica.",
+    "ctaLabel": "Consultar Inter/Avz",
+    "ctaMessage": "Hola, quiero consultar por Danza Clásica Inter/Avanzado. ¿Qué horarios manejan y requisitos?",
+    "notes": []
+  },
+  {
+    "id": "puntas",
+    "title": "Técnica de Puntas",
+    "age": "",
+    "level": "Avanzado",
+    "description": "Trabajo específico en puntas, fuerza, equilibrio, técnica y control corporal.",
+    "ctaLabel": "Consultar Puntas",
+    "ctaMessage": "Hola, quiero consultar por Técnica de Puntas. ¿Qué horarios y requisitos tienen?",
+    "notes": []
+  },
+  {
+    "id": "adultos",
+    "title": "Danza Clásica Adultos",
+    "age": "",
+    "level": "Inicial / Intermedio",
+    "description": "Técnica clásica para adultos, sin necesidad de experiencia previa. Trabajo corporal, musicalidad y disfrute.",
+    "ctaLabel": "Consultar Adultos",
+    "ctaMessage": "Hola, quiero consultar por Danza Clásica Adultos. ¿Qué días y horarios hay?",
+    "notes": []
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "note": "Los horarios pueden variar. Consultanos por WhatsApp para disponibilidad actual.",
+  "days": [
+    {
+      "day": "Lunes",
+      "items": [
+        { "time": "17:30", "classId": "ini-3-6" },
+        { "time": "18:30", "classId": "clas-ninas" },
+        { "time": "19:30", "classId": "inter-avz" },
+        { "time": "20:30", "classId": "puntas" }
+      ]
+    },
+    {
+      "day": "Martes",
+      "items": [
+        { "time": "17:30", "classId": "ini-3-6" },
+        { "time": "18:30", "classId": "clas-ninas" },
+        { "time": "19:30", "classId": "inter-avz" },
+        { "time": "20:30", "classId": "adultos" }
+      ]
+    },
+    {
+      "day": "Miércoles",
+      "items": [
+        { "time": "17:30", "classId": "ini-3-6" },
+        { "time": "18:30", "classId": "clas-ninas" },
+        { "time": "19:30", "classId": "inter-avz" },
+        { "time": "20:30", "classId": "puntas" }
+      ]
+    },
+    {
+      "day": "Jueves",
+      "items": [
+        { "time": "17:30", "classId": "ini-3-6" },
+        { "time": "18:30", "classId": "clas-ninas" },
+        { "time": "19:30", "classId": "inter-avz" },
+        { "time": "20:30", "classId": "adultos" }
+      ]
+    },
+    {
+      "day": "Viernes",
+      "items": [
+        { "time": "17:30", "classId": "ini-3-6" },
+        { "time": "18:30", "classId": "clas-ninas" },
+        { "time": "19:30", "classId": "inter-avz" },
+        { "time": "20:30", "classId": "puntas" }
+      ]
+    }
+  ]
+}
